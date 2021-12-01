@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-
-### Hi there 👋
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
 [![Ihsan's github stats](https://github-readme-stats.vercel.app/api?username=sabrinadizam21)](https://github.com/anuraghazra/github-readme-stats)
 
