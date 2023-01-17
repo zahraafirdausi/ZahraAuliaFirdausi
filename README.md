@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
-[![Sabrina Diza Melinda's github stats](https://github-readme-stats.vercel.app/api?username=sabrinadizam21)](https://github.com/anuraghazra/github-readme-stats)
+[![Zahra Aulia Firdausi's github stats](https://github-readme-stats.vercel.app/api?username=zahraafirdausi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sabrinadizam21/sabrinadizam21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
